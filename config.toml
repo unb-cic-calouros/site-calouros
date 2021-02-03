@@ -1,0 +1,90 @@
+baseURL = "localhost"
+languageCode = "pt-br"
+title = "Tá perdido?"
+defaultContentLanguage = "pt"
+theme = "cayman-hugo-theme"
+
+# Google analytics
+# googleAnalytics = "UA-123456789-1"
+
+# Disqus comments
+# disqusShortname = "yourdiscussshortname"
+
+# Syntax highlighting
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+  # Header text, can be markdown
+  project_name = "Guia para os Calouros"
+  project_tagline = "Por que bixo tá sempre perdido, irmão!"
+
+  # Date format for post list and single pages
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "2006-01-02"
+
+  # Footer text, can be markdown
+  footer = "Feito com amor, de calouros para calouros. <3"
+
+  # If true, the CSS/JS for Katex math typesetting are enabled
+  katex = true
+
+  # Breakpoints
+  large_breakpoint = "64em"
+  medium_breakpoint = "42em"
+
+  # Header colors
+  header_heading_color = "#fff"
+  header_background_color = "#159957"
+  header_background_color_secondary = "#155799"
+
+  # Text colors
+  section_headings_color = "#159957"
+  body_text_color = "#606c71"
+  body_link_color = "#1e6bb8"
+  blockquote_text_color = "#819198"
+
+  # Code colors
+  code_background_color = "#f3f6fa"
+  code_text_color = "#567482"
+
+  # Border colors
+  border_color = "#dce6f0"
+  table_border_color = "#e9ebec"
+  hr_border_color = "#eff0f1"
+
+[menu]
+  [[menu.nav]]
+    name = "Posts"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "APC"
+    url = "/apc"
+    weight = 2
+  [[menu.nav]]
+    name = "ISC"
+    url = "/isc"
+    weight = 3
+  [[menu.nav]]
+    name = "C1"
+    url = "/c1"
+    weight = 4
+  [[menu.nav]]
+    name = "Etiquetas"
+    url = "/tags/"
+    weight = 5
+  [[menu.nav]]
+    name = "Sobre"
+    url = "/about/"
+    weight = 6
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 7

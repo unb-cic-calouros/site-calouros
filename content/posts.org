@@ -1,0 +1,64 @@
+#+TITLE: Posts
+#+HUGO_BASE_DIR: ../
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
+
+* Posts
+** Caí de paraquedas, e agora irmão?
+:PROPERTIES:
+:EXPORT_FILE_NAME: primeiros-passos
+:EXPORT_DATE: 2021-02-03T19:01:42-0300
+:END:
+
+Primeiramente, parabéns pela sua conquista em ingressar na UnB!
+
+[[file:./l.png]]
+[[file:./congrats.gif]]
+[[file:./l.png]]
+
+Você já deve ter percebido que as matérias do primeiro semestre serão:
+
++ Cálculo 1
++ Introdução aos Sistemas Computacionais
++ Algoritmos e Programação de Computadores
+
+=TODO: escrever uma intro legal pros calouros, dar um overview da matéria e depois linkar para as páginas específicas dessas matérias.=
+* Sobre
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: about
+:EXPORT_DATE: 2021-02-03T19:01:15-0300
+:END:
+
+Olá!
+
+Esse site é um esforço de reunirmos algumas informações importantes para esse primeiro semestre na facul,
+bem como um compilado de recursos interessantes para as matérias que estudaremos inicialmente.
+
+Como o ritmo de faculdade é muito diferente de tudo o que estávamos acostumados, toda ajuda é válida :)
+
+* Cálculo
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: c1
+:EXPORT_DATE: 2021-02-03T20:48:03-0300
+:END:
+
+TODO: Colocar informações de cálculo aqui
+
+* APC
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: apc
+:EXPORT_DATE: 2021-02-03T20:52:46-0300
+:END:
+
+TODO: Colocar informações de APC aqui
+* ISC
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: /
+:EXPORT_FILE_NAME: isc
+:EXPORT_DATE: 2021-02-03T20:52:49-0300
+:END:
+
+TODO: Colocar informações de ISC aqui
