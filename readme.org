@@ -12,22 +12,17 @@ fonte).
 
 Para contribuir com o projeto, siga os passos:
 
-1. Clone o repositório;
-
-   #+begin_src bash
-   git clone git@github.com:unb-cic-calouros/site-calouros.git
-   cd site-calouros
-   #+end_src
+1. Faça um fork do repositório;
 
 2. Faça suas edições no arquivo =content/posts.org= ou =config.toml= (caso
    deseje modificar o conteúdo do site - os arquivos de template ficam em
    =/themes=);
-   #+begin_src bash
-   emacs content/posts.org
-   #+end_src
 
    Por favor, tenha o cuidado de editar o arquivo usando a sitaxe de arquivos
    [[https://orgmode.org/][org]].
+
+   *Não edite os arquivos markdown*, eles são gerados pelo arquivo =org=
+   através do =ox-hugo=.
 
 3. Crie um PR com suas modificações;
 
