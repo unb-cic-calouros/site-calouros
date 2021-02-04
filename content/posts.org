@@ -37,14 +37,18 @@ bem como um compilado de recursos interessantes para as matérias que estudaremo
 
 Como o ritmo de faculdade é muito diferente de tudo o que estávamos acostumados, toda ajuda é válida :)
 
-* Cálculo
+* Cálculo 1
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
 :EXPORT_FILE_NAME: c1
 :EXPORT_DATE: 2021-02-03T20:48:03-0300
 :END:
 
-TODO: Colocar informações de cálculo aqui
+=TODO: Colocar informações de cálculo aqui=
+
+** Livros
++ [Inglês] [[https://openstax.org/details/books/calculus-volume-1][Calculus Volume 1]] ([[https://openstax.org/subjects/math][Veja também outros excelentes livros do OpenStax]])
++ [Inglês] [[https://aimath.org/textbooks/approved-textbooks/][Vários livros de Cálculo aprovados pelo Instituto Americano de Matemática]]
 
 * APC
 :PROPERTIES:
@@ -53,7 +57,23 @@ TODO: Colocar informações de cálculo aqui
 :EXPORT_DATE: 2021-02-03T20:52:46-0300
 :END:
 
-TODO: Colocar informações de APC aqui
+=TODO: Colocar informações de APC aqui=
+** Livros
++ [Inglês] [[https://greenteapress.com/wp/think-python-2e/][Think Python 2e]]
+  Esse é o livro referência para o curso de APC do semestre 2020/02
+
++ [Inglês] [[https://automatetheboringstuff.com/][Automate the Boring Stuff with Python]]
+  Esse livro ensina o básico de Python de uma forma descontraída, com exemplos
+  práticos, de fácil leitura.
+
++ [Inglês] [[https://cs50.harvard.edu][CS50 - Harvard]] Curso de introdução a computação de Harvard, cobre
+  bastante do conteúdo abordado em APC, apenas diferindo na linguagem base (A
+  primeira linguagem ensinada no CS50 é =C=, depois progredindo para =Python=,
+  =SQL= e =JavaScript=)
+
+  A ideia do CS50, assim como em APC, é ensinar como
+  programar. Como funcionam repetições? iterações? lógica booleana? etc...
+  Portanto, a linguagem não faz uma diferença tão grande.
 * ISC
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
@@ -61,4 +81,4 @@ TODO: Colocar informações de APC aqui
 :EXPORT_DATE: 2021-02-03T20:52:49-0300
 :END:
 
-TODO: Colocar informações de ISC aqui
+=TODO: Colocar informações de ISC aqui=
