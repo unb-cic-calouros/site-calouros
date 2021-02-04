@@ -1,0 +1,34 @@
+#+TITLE: Readme
+
+Olá!
+
+Esse site é para ajudar os calouros a pegar o ritmo na facul.
+
+O site é construído usando o static site builder [[https://gohugo.io/][hugo]], o
+template [[https://cayman-hugo-theme.netlify.app/][cayman]], e o pacote
+[[https://github.com/kaushalmodi/ox-hugo][ox-hugo]] (este último, para facilitar
+o processo de criação de vários arquivos markdown usando apenas um arquivo
+fonte).
+
+Para contribuir com o projeto, siga os passos:
+
+1. Clone o repositório;
+
+   #+begin_src bash
+   git clone git@github.com:unb-cic-calouros/site-calouros.git
+   cd site-calouros
+   #+end_src
+
+2. Faça suas edições no arquivo =content/posts.org= ou =config.toml= (caso
+   deseje modificar o conteúdo do site - os arquivos de template ficam em
+   =/themes=);
+   #+begin_src bash
+   emacs content/posts.org
+   #+end_src
+
+   Por favor, tenha o cuidado de editar o arquivo usando a sitaxe de arquivos
+   [[https://orgmode.org/][org]].
+
+3. Crie um PR com suas modificações;
+
+4. Corra pro abraço.
