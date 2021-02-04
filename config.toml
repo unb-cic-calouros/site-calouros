@@ -23,7 +23,7 @@ pygmentsStyle = "pygments"
 [params]
   # Header text, can be markdown
   project_name = "Guia para os Calouros"
-  project_tagline = "Por que bixo tá sempre perdido, irmão!"
+  project_tagline = "Porque bixo tá sempre perdido, irmão!"
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
