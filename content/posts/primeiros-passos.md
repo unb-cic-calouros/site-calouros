@@ -2,7 +2,7 @@
 title = "Caí de paraquedas, e agora irmão?"
 author = ["Cardosaum"]
 date = 2021-02-03T00:00:00-03:00
-lastmod = 2021-02-03T22:05:33-03:00
+lastmod = 2021-02-03T22:16:53-03:00
 draft = false
 weight = 2001
 +++

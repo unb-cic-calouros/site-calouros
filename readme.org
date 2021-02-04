@@ -32,3 +32,10 @@ Para contribuir com o projeto, siga os passos:
 3. Crie um PR com suas modificações;
 
 4. Corra pro abraço.
+
+
+* Observações
+O site é destinado a compartilhar recursos, dicas e outras coisas que possam
+ajudar os calouros nesse início de faculdade. Peço por gentiliza que apenas
+submetam recursos que sejam creative commons. Nós queremos evitar problemas com
+copyright, okay? ;)

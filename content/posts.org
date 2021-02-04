@@ -48,7 +48,21 @@ Como o ritmo de faculdade é muito diferente de tudo o que estávamos acostumado
 
 ** Livros
 + [Inglês] [[https://openstax.org/details/books/calculus-volume-1][Calculus Volume 1]] ([[https://openstax.org/subjects/math][Veja também outros excelentes livros do OpenStax]])
+
+  #+begin_quote
+Esse livro é bem completo, com vários exercícios e gabarito para as questões com
+números ímpares.
+
+Possui uma didática muito boa também.
+  #+end_quote
+
 + [Inglês] [[https://aimath.org/textbooks/approved-textbooks/][Vários livros de Cálculo aprovados pelo Instituto Americano de Matemática]]
+  #+begin_quote
+Sei da existência desses outros livros também, mas nunca usei eles (além o OpenStax)
+
+Mas talvez você goste de algum?
+¯\_(ツ)_/¯
+  #+end_quote
 
 * APC
 :PROPERTIES:
@@ -60,20 +74,30 @@ Como o ritmo de faculdade é muito diferente de tudo o que estávamos acostumado
 =TODO: Colocar informações de APC aqui=
 ** Livros
 + [Inglês] [[https://greenteapress.com/wp/think-python-2e/][Think Python 2e]]
+
+  #+begin_quote
   Esse é o livro referência para o curso de APC do semestre 2020/02
+  #+end_quote
 
 + [Inglês] [[https://automatetheboringstuff.com/][Automate the Boring Stuff with Python]]
+
+  #+begin_quote
   Esse livro ensina o básico de Python de uma forma descontraída, com exemplos
   práticos, de fácil leitura.
+  #+end_quote
 
-+ [Inglês] [[https://cs50.harvard.edu][CS50 - Harvard]] Curso de introdução a computação de Harvard, cobre
-  bastante do conteúdo abordado em APC, apenas diferindo na linguagem base (A
-  primeira linguagem ensinada no CS50 é =C=, depois progredindo para =Python=,
-  =SQL= e =JavaScript=)
++ [Inglês] [[https://cs50.harvard.edu][CS50 - Harvard]]
+
+  #+begin_quote
+  Curso de introdução a computação de Harvard, cobre bastante do conteúdo
+  abordado em APC, apenas diferindo na linguagem base (A primeira linguagem
+  ensinada no CS50 é =C=, depois progredindo para =Python=, =SQL= e
+  =JavaScript=)
 
   A ideia do CS50, assim como em APC, é ensinar como
   programar. Como funcionam repetições? iterações? lógica booleana? etc...
   Portanto, a linguagem não faz uma diferença tão grande.
+  #+end_quote
 * ISC
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: /
